@@ -4,6 +4,7 @@ my customization for cava as TokyoNight theme
 ![Preview "Screenshot"](cavaPreview.png)
 
 replace config:
+open terminal in folder where config was downloaded then paste command
 ```
 sudo mv config ~/.config/cava
 ```
